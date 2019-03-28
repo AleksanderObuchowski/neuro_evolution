@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/basiaandolek/olek/epoch9.tfl"
+all_model_checkpoint_paths: "/home/basiaandolek/olek/epoch9.tfl"
